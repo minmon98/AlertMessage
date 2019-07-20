@@ -1,0 +1,24 @@
+{
+  "name": "alertmessage",
+  "version": "1.0.0",
+  "description": "yeye",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minmon98/AlertMessage.git"
+  },
+  "author": "minhmon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minmon98/AlertMessage/issues"
+  },
+  "homepage": "https://github.com/minmon98/AlertMessage#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.2.1",
+    "express": "^4.17.1"
+  }
+}
